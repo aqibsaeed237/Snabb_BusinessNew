@@ -1,0 +1,42 @@
+// Images
+const String addPurchaseImage = 'assets/images/addPurchaseImage.png';
+const String addSaleImage = 'assets/images/addSaleImage.png';
+const String addExpenseImage = 'assets/images/addExpense.png';
+const String forgotPassImage = 'assets/images/forgotPassImage.png';
+const String historyImage = 'assets/images/historyImage.png';
+const String homeScreenImage = 'assets/images/homeScreenImage.png';
+const String loginImage = 'assets/images/loginImage.png';
+const String onBoardingOne = 'assets/images/onBoardingOne.png';
+const String onBoardingTwo = 'assets/images/onBoardingTwo.png';
+const String onBoardingThree = 'assets/images/onBoardingThree.png';
+const String OTPImage = 'assets/images/OTPImage.png';
+const String reportsImage = 'assets/images/reportsImage.png';
+const String successImage = 'assets/images/successImage.png';
+const String thumbImage = 'assets/images/thumbImage.png';
+const String thumbCircle = 'assets/images/thumbCircle.png';
+const String subscriptionImage = 'assets/images/subscription.png';
+const String freeSubscriptionImage = 'assets/images/freeSubImage.png';
+const String paidSubscriptionImage = 'assets/images/paidSubImage.png';
+
+// Icons
+const String hi = 'assets/icons/Buy.png';
+const String sellIcon = 'assets/icons/sellIcon.png';
+const String BuyIcon = 'assets/icons/Buy.png';
+const String ExpenseIcon = 'assets/icons/Tax.png';
+const String SubscriptionIcon = 'assets/icons/subIcon.png';
+const String ChatBubbleIcon = 'assets/icons/ChatBubble.png';
+const String EmailImage = 'assets/icons/Email.png';
+const String FacebookImage = 'assets/icons/Facebook.png';
+const String GoogleImage = 'assets/icons/google.png';
+const String ForwardIcon = 'assets/icons/Forward.png';
+const String GoBackIcon = 'assets/icons/GoBack.png';
+const String LogoIcon = 'assets/icons/Ledger.png';
+const String LogoutIcon = 'assets/icons/Logout.png';
+const String UserImage = 'assets/icons/Person.png';
+const String SellIcon = 'assets/icons/Sell.png';
+const String VerifiedAccountIvcon = 'assets/icons/VerifiedAccount.png';
+const String eyeIcon = "assets/icons/Hide.png";
+const String fbImage = "assets/images/Facebook.png";
+const String instagramImage = "assets/images/instagram.png";
+const String linkedInImage = "assets/images/Linkedin.png";
+const String youtubeImage = "assets/images/YouTube.png";
